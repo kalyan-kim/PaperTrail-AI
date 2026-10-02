@@ -1,4 +1,4 @@
-# PDF AI Assistant
+# PaperTrail-AI
 
 A Streamlit application for uploading documents, searching their contents, and asking questions using a Hugging Face language model.
 
