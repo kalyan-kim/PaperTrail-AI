@@ -120,7 +120,7 @@ def get_llm():
         )
 
     endpoint = HuggingFaceEndpoint(
-       repo_id="Qwen/Qwen3-4B-Instruct-2507",
+       repo_id="qwen/qwen-2.5-7b-instruct",
         task="text-generation",
         max_new_tokens=512,
         temperature=0.2,
